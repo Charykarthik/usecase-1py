@@ -5,6 +5,7 @@ steps:
   - deploy
   - hello_world
   - --source=.
+  - --trigger-http
   - --trigger-bucket=buk-temp
   - --runtime=python37
   - --allow-unauthenticated
