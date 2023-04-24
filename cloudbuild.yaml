@@ -5,6 +5,6 @@ steps:
   - deploy
   - hello_world
   - --source=.
-  - --trigger-bucket=sceg-karthik
+  - --trigger-bucket=sceg_karthik
   - --runtime=python37
   - --allow-unauthenticated
